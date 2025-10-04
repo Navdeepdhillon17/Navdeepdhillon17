@@ -30,7 +30,6 @@ My experience in software support gives me a unique user-centric perspective on 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <a href="https://www.deque.com/axe/" target="_blank"><img src="https://www.deque.com/wp-content/uploads/2018/03/axe-logo-light.png" alt="Axe Core" height="40"/></a>
 </p>
 
 ---
@@ -38,8 +37,10 @@ My experience in software support gives me a unique user-centric perspective on 
 ### 📊 My GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?Navdeepdhillon17=<h1 align="center">Hi there, I'm Navdeep 👋</h1>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Navdeepdhillon17&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?Navdeeepdhillon17&theme=tokyonight" alt="GitHub Streak" />
+</p>
 ---
 
 
