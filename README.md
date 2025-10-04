@@ -39,9 +39,8 @@ My experience in software support gives me a unique user-centric perspective on 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Navdeepdhillon17&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?Navdeeepdhillon17&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Navdeeepdhillon17&theme=tokyonight" alt="GitHub Streak" />
 </p>
----
 
 
 ### 🤝 Let's Connect
@@ -53,7 +52,5 @@ I'm always open to connecting with fellow testers, developers, and accessibility
   <a href="[https://x.com/_navdeeep_?s=21]" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 </p>&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?Navdeeepdhillon17&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Navdeeepdhillon17&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
----
