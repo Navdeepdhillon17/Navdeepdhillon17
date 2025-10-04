@@ -37,7 +37,7 @@ My experience in software support gives me a unique user-centric perspective on 
 ### 📊 My GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Navdeepdhillon17&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Navdeeepdhillon17&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
   <img src="https://streak-stats.demolab.com/?user=Navdeeepdhillon17&theme=tokyonight" alt="GitHub Streak" />
 </p>
