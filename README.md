@@ -5,9 +5,9 @@
 
 ### 🤵 About Me
 
-I'm a **Software Support Engineer** with an **ISTQB CTFL certification** and a deep passion for software quality. My goal is to transition into a full-time testing role, with a special focus on **Web Accessibility (A11y)**. I believe in making technology usable for everyone.
+I'm a **Software Support Engineer** with an **ISTQB CTFL certification** and a deep passion for software quality. My goal is to transition into a full-time testing role, with a special focus on **Automation Engineer (Selenium+Java**. I believe in making technology usable for everyone.
 
-- 🔭 I’m currently diving deep into **Hacktoberfest 2025** to contribute to open-source projects.
+
 - 🌱 I’m focused on learning **WCAG standards** and automation tools like **Selenium and Playwright**.
 - 🤝 I’m looking to collaborate on projects that need **manual, exploratory, or accessibility testing**.
 - 📫 You can reach me at: **[NavdeepKaur13@outlook.com]**
